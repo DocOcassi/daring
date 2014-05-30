@@ -33,7 +33,7 @@ look at the code, and hack.
 
 ## License
 
-Copyright 2010-2011 François de Metz, Nikolay Sturm(nistude), Nikola Petrov(nikolavp)
+Copyright 2014, DocOcassi
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
