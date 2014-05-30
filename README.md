@@ -2,6 +2,9 @@
 
 A circular display widget that uses a 0-100 input.
 
+tested under:
+awesome-4.8.2
+
 a volume widget included uses amixer
 amixer function taking from blingbling under GPL
 
